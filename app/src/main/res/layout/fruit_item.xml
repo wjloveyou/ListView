@@ -1,0 +1,14 @@
+<LinearLayout xmlns:andrioid="http://schemas.android.com/apk/res/android"
+    andrioid:layout_height="wrap_content"
+    andrioid:layout_width="match_parent">
+    <ImageView
+        andrioid:id="@+id/fruit_image"
+        andrioid:layout_width="wrap_content"
+        andrioid:layout_height="wrap_content"/>
+    <TextView
+        andrioid:id="@+id/fruit_name"
+        andrioid:layout_width="wrap_content"
+        andrioid:layout_height="wrap_content"
+        andrioid:layout_gravity="center_vertical"
+        andrioid:layout_margin="10dp"/>
+</LinearLayout>

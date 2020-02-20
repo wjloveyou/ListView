@@ -1,0 +1,8 @@
+<LinearLayout xmlns:andrioid="http://schemas.android.com/apk/res/android"
+    andrioid:layout_height="match_parent"
+    andrioid:layout_width="match_parent">
+    <ListView
+        andrioid:id="@+id/list_view"
+        andrioid:layout_width="match_parent"
+        andrioid:layout_height="match_parent"/>
+</LinearLayout>
